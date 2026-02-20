@@ -9,7 +9,7 @@ Aprender e aplicar fundamentos de frontend:
 - HTML semântico
 - CSS organizado
 - Estrutura de projeto profissional
-- Versionamento com Git e GitHub
+- Versionamento com Git e GitHub.
 
 ## 📅 Progresso
 
