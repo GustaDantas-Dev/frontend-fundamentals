@@ -19,9 +19,11 @@ Criação do repositório e estrutura inicial.
 ### Dia 2
 Estrutura HTML semântica e commits organizados.
 
-### Dia 3 (em andamento)
-Separação de estilos e melhoria visual.
+### Dia 3
+Separação de estilos e início do visual.
 
----
+### Dia 4
+Melhoria da estrutura HTML e conteúdo da página.
 
-Projeto em evolução contínua.
+### Dia 5
+Organização profissional de pastas e refatoração do CSS.
